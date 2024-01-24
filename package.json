@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "nodejs": "^0.0.0"
+  },
+  "name": "soc",
+  "version": "1.0.0",
+  "description": "SOC Website",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.js"
+  },
+  "keywords": [
+    "SOC"
+  ],
+  "author": "Zulaikha Hanan Binti Bolhan",
+  "license": "ISC"
+}
